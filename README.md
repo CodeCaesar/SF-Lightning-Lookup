@@ -1,4 +1,8 @@
 # SF-Lightning-Lookup
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
 
 :point_right: **_Note: This component was built with version 40.0 (Summer 17). Different behaviour noticed with previous releases because of lightning:input use._**
 
